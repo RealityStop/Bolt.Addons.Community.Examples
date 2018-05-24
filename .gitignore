@@ -6,6 +6,8 @@
 Assets/AssetStoreTools*
 Assets/Ludiq/
 Assets/Ludiq.meta
+Assets/Plugins
+Assets/Plugins.meta
 
 # Visual Studio cache directory
 .vs/
