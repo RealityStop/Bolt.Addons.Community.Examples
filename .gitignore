@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Ludiq/
+Assets/Ludiq.meta
 
 # Visual Studio cache directory
 .vs/
