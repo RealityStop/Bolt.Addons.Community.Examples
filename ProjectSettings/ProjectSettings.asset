@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 239288dda85cd1d438cbc65a885d872d
+  productGUID: 7775d56cd3141324ba2ccced88df3f18
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -553,7 +553,7 @@ PlayerSettings:
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
-  scriptingRuntimeVersion: 0
+  scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
